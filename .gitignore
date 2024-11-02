@@ -1,0 +1,20 @@
+# Modules
+node_modules/
+
+
+# Secrets
+.env
+
+# MISC
+misc/
+notes/
+*.md 
+*txt
+*.pdf
+*docx
+*xls
+
+# Hold working code while testing different code
+hold/
+*.hold 
+hold-code.js
